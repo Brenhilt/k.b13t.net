@@ -1,3 +1,3 @@
 [build]
 command = "make html"
-pubish = "output"
+publish = "output"
